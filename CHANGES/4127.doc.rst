@@ -1,0 +1,2 @@
+Fixed narrow parameter labels in the documentation by adding a ``min-width`` CSS rule for field-list terms.
+-- by :user:`NIK-TIGER-BILL`.

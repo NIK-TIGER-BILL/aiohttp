@@ -5,3 +5,8 @@
 .sphinxsidebarwrapper>p.logo>a>img.logo {
   width: 65%;
 }
+
+/* Fix narrow parameter labels in docstring field lists (#4127) */
+.field-list dt {
+  min-width: 6em;
+}
