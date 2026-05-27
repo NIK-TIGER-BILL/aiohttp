@@ -290,6 +290,7 @@ Nikolay Kim
 Nikolay Novik
 Nikolay Tiunov
 Nándor Mátravölgyi
+Nikita Zamuldinov
 Oisin Aylward
 Olaf Conradi
 Oleg Höfling

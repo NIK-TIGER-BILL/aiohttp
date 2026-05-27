@@ -1,0 +1,2 @@
+Fixed Cython compilation error caused by duplicate type annotations in ``aiohttp/_websocket/reader_py.py`` when using Cython 3.2.5 with ``freethreading_compatible=True``. Removed redundant ``Final`` and ``int`` annotations that were already declared in the ``.pxd`` file.
+-- by :user:`NIK-TIGER-BILL`.
