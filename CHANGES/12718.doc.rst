@@ -1,0 +1,3 @@
+Removed the obsolete ``response_factory`` parameter from the ``add_static()``
+documentation in :file:`docs/web_reference.rst`.
+-- by :user:`NIK-TIGER-BILL`.
